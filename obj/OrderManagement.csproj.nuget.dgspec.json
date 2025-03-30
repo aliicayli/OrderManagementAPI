@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ali\\Desktop\\OrderManagement\\OrderManagement.csproj": {}
+    "C:\\Users\\Ali\\Desktop\\OrderManagementAPI\\OrderManagement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ali\\Desktop\\OrderManagement\\OrderManagement.csproj": {
+    "C:\\Users\\Ali\\Desktop\\OrderManagementAPI\\OrderManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ali\\Desktop\\OrderManagement\\OrderManagement.csproj",
+        "projectUniqueName": "C:\\Users\\Ali\\Desktop\\OrderManagementAPI\\OrderManagement.csproj",
         "projectName": "OrderManagement",
-        "projectPath": "C:\\Users\\Ali\\Desktop\\OrderManagement\\OrderManagement.csproj",
+        "projectPath": "C:\\Users\\Ali\\Desktop\\OrderManagementAPI\\OrderManagement.csproj",
         "packagesPath": "C:\\Users\\Ali\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ali\\Desktop\\OrderManagement\\obj\\",
+        "outputPath": "C:\\Users\\Ali\\Desktop\\OrderManagementAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
